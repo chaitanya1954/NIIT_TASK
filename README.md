@@ -1,14 +1,15 @@
-Install requirements.txt
+README
 
-Config.py has download link
+•	Install requirements.txt
 
-Processing consist downloaded  Input excel file
+•	Config.py has download link
 
-Processed consist Output csv file
+•	Processing consist downloaded  Input excel file
 
-Logger.py handle the logs
+•	Processed consist Output csv file
 
-Datacrawlscheduler.py has code logic which downloads Input excel file into processing folder, process it and creates a output csv file in processed folder.
+•	Logger.py handle the logs
 
+•	Datacrawlscheduler.py has code logic which downloads Input excel file into processing folder, process it and creates a output csv file in processed folder.
 
-Execute python datacrawlscheduler.py
+•	Execute python datacrawlscheduler.py
